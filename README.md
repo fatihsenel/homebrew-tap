@@ -11,7 +11,7 @@ brew install --cask fatihsenel/tap/folderserve
 
 The app is signed with a Developer ID certificate and notarized by Apple. It needs macOS 14 or later.
 
-If Homebrew refuses to load the cask because the tap is untrusted, run `brew trust fatihsenel/tap` once and install again.
+Installing by its full name, as above, trusts the cask automatically. If Homebrew still refuses to load it because the tap is untrusted, run `brew trust fatihsenel/tap` once and install again.
 
 ## Update and remove
 
