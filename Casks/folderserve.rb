@@ -1,6 +1,6 @@
 cask "folderserve" do
-  version "0.1.8"
-  sha256 "e0976781203970718123afa5f4b55b0aed336d7915ea29e3116e91e13ea4f50e"
+  version "0.1.9"
+  sha256 "bc5f8f80beda400d618bc1c70303addff5828ac8dee179eec225c6d107c9e876"
 
   url "https://github.com/fatihsenel/FolderServe/releases/download/v#{version}/FolderServe-#{version}.zip"
   name "FolderServe"
